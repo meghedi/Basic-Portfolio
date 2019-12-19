@@ -82,6 +82,10 @@ main{
     clear: both;
 }
 
+#content div p:first-child{
+    margin-top: 0px;
+}
+
 img{
     float: left;
     width:200px;
